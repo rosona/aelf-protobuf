@@ -4,14 +4,13 @@ HERE=$(cd "$(dirname "$0")";pwd)
 cd ${HERE}
 
 TAG=$1
-NUGET_KEY=$2
+NUGET_API_KEY=$2
 
 # TODO: verify version
 VERSION=`echo $TAG | cut -b 2-`
 
-NUPKG="${HERE}/AElf.Types.${VERSION}.nupkg"
+NUPKG="${HERE}/Rosona.Types.${VERSION}.nupkg"
 
-rm AElf.Types/*.cs
 protoc --proto_path=../proto/ --csharp_out=AElf.Types/ ../proto/*
 
 # build
@@ -23,4 +22,4 @@ if [ ! -f "${NUPKG}" ]; then
 fi
 
 # publish
-dotnet nuget push ${NUPKG} -k ${NUGET_KEY} -s https://api.nuget.org/v3/index.json
+dotnet nuget push ${NUPKG} -k ${NUGET_API_KEY} -s https://api.nuget.org/v3/index.json

@@ -1,9 +1,0 @@
-/Users/peng/workspace/github.com/rosona/aelf-protobuf/nuget/AElf.Types/bin/Release/netstandard2.0/AElf.Types.deps.json
-/Users/peng/workspace/github.com/rosona/aelf-protobuf/nuget/AElf.Types/bin/Release/netstandard2.0/AElf.Types.dll
-/Users/peng/workspace/github.com/rosona/aelf-protobuf/nuget/AElf.Types/bin/Release/netstandard2.0/AElf.Types.pdb
-/Users/peng/workspace/github.com/rosona/aelf-protobuf/nuget/AElf.Types/obj/Release/netstandard2.0/AElf.Types.csprojAssemblyReference.cache
-/Users/peng/workspace/github.com/rosona/aelf-protobuf/nuget/AElf.Types/obj/Release/netstandard2.0/AElf.Types.csproj.CoreCompileInputs.cache
-/Users/peng/workspace/github.com/rosona/aelf-protobuf/nuget/AElf.Types/obj/Release/netstandard2.0/AElf.Types.AssemblyInfoInputs.cache
-/Users/peng/workspace/github.com/rosona/aelf-protobuf/nuget/AElf.Types/obj/Release/netstandard2.0/AElf.Types.AssemblyInfo.cs
-/Users/peng/workspace/github.com/rosona/aelf-protobuf/nuget/AElf.Types/obj/Release/netstandard2.0/AElf.Types.dll
-/Users/peng/workspace/github.com/rosona/aelf-protobuf/nuget/AElf.Types/obj/Release/netstandard2.0/AElf.Types.pdb

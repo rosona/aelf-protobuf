@@ -4,8 +4,8 @@
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageId>AElf.Types</PackageId>
-    <Authors>AElf</Authors>
+    <PackageId>Rosona.Types</PackageId>
+    <Authors>Rosona</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 </Project>
