@@ -1,5 +1,6 @@
 #!/bin/bash
 
+## install protobuf
 # Make sure you grab the latest version
 curl -OL https://github.com/google/protobuf/releases/download/v3.6.0/protoc-3.6.0-linux-x86_64.zip
 
